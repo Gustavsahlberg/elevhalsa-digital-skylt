@@ -1,8 +1,3 @@
-## Raspberry Pi credentials
-    username: pi  
-    password: 9IHad98i32K
-    ip: 192.168.202.165  
-
 ## How to remote control Raspberry Pi
 
 ### Download/Install VNC Viewer
